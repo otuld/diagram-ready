@@ -1,0 +1,19 @@
+{
+  "name": "simplegram",
+  "version": "0.0.1-alpha",
+  "description": "web-based diagram tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iam-thanwa-io/simplegram.git"
+  },
+  "author": "Thanwa Ananthaseth iam@thanwa.io",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iam-thanwa-io/simplegram/issues"
+  },
+  "homepage": "https://github.com/iam-thanwa-io/simplegram#readme"
+}
