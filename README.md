@@ -1,2 +1,2 @@
-# diagram-made-simple
+# diagram-ready
 web-based simple diagram tool
