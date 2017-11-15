@@ -4,6 +4,7 @@
   "description": "web-based diagram tool",
   "main": "index.js",
   "scripts": {
+    "start": "./node_modules/.bin/http-server public",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/iam-thanwa-io/simplegram/issues"
   },
-  "homepage": "https://github.com/iam-thanwa-io/simplegram#readme"
+  "homepage": "https://github.com/iam-thanwa-io/simplegram#readme",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
 }
